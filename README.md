@@ -36,3 +36,11 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
+
+### Link for the Solution:
+
+https://public.tableau.com/app/profile/pedro.faria6386/viz/CustomerAnalysis_Lab1/CustomerAnalysisDashboard
+
+
+
+
