@@ -24,10 +24,6 @@ Upon completion of this lab, you will be able to:
 
 4. **Measurements vs. Dimensions**: Review the **Measurements** and **Dimensions** identified by Tableau. Adjust them if necessary to ensure they match your data structure and analysis needs.
 
-5. **Gender Barplot Sheet**: Develop a sheet dedicated to displaying the barplot of customer counts by **Gender**.
-
-6. **Employment and Gender Barplot Sheet**: Prepare a separate sheet to showcase the barplot of customer counts by **EmploymentStatus** and **Gender**.
-
 7. **State Treeplot Sheet**: Create a sheet with a treeplot (also known as a treemap) illustrating the number of customers in each **State**.
 
 8. **Marital Status and Gender Cross Table**: Generate a cross table that breaks down the customers by Marital status and Gender.
