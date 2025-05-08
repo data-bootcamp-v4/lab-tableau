@@ -1,3 +1,34 @@
+<<<<<<< HEAD
+# lab-tableau
+
+https://public.tableau.com/app/profile/claudio.do.prado/viz/tableau-lab_17466115089270/CustomerDataInsights?publish=yes
+
+# Customer Data Visualization Dashboard
+
+This Tableau workbook contains a set of visualizations analyzing customer demographic and behavioral data. The dashboard includes various charts and tables that provide insights into customer distribution by gender, employment status, state, marital status, and more.
+
+---
+
+## Contents
+
+- **Gender Barplot**: Customer counts segmented by Gender.
+- **Employment & Gender Barplot**: Customer counts broken down by Employment Status and Gender.
+- **State Treemap**: Visualizes the number of customers in each State.
+- **Marital Status & Gender Crosstab**: Cross-tabulation of customers by Marital Status and Gender.
+- **Dashboard**: An interactive composite view combining all sheets with filters for comprehensive data exploration.
+
+---
+
+## Data Fields & Structure
+
+- **CustomerID**: Unique identifier for customers.
+- **Gender**: Categorical variable (e.g., Male, Female).
+- **EmploymentStatus**: Employment status categories.
+- **State**: Customer's residing state.
+- **MaritalStatus**: Marital status categories.
+
+
+=======
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Tableau
@@ -35,4 +66,5 @@ Upon completion of this lab, you will be able to:
 9. **Dashboard Assembly**: Compile all the created sheets into a single, interactive dashboard for an integrated view of the data insights.
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
+>>>>>>> 971eef2359d7623904c721a4c9d100952b4dd983
 
