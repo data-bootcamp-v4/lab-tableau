@@ -1,8 +1,26 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Tableau
+## ✅ Tableau Lab Submission
 
-### Learning Outcomes
+## ✅ Tableau Lab Submission
+
+### 🧭 Dashboard
+![Dashboard](Screenshot%202025-07-22%20113134.png)
+
+### 📊 Gender Barplot
+![Gender Barplot](Screenshot%202025-07-22%20145415.png)
+
+### 👥 Employment & Gender Barplot
+![Employment Barplot](Screenshot%202025-07-22%20145717.png)
+
+### 🌐 State Treeplot
+![State Treeplot](Screenshot%202025-07-22%20145743.png)
+
+### 💍 Marital Status × Gender Table
+![Cross Table](Screenshot%202025-07-22%20145808.png)
+
+
 
 Upon completion of this lab, you will be able to:
 
