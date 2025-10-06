@@ -23,6 +23,13 @@ Upon completion of this lab, you will be able to:
 3. **Employment and Gender Barplot**: Construct a barplot that represents the number of customers by **EmploymentStatus** segmented by **Gender**.
 
 4. **Measurements vs. Dimensions**: Review the **Measurements** and **Dimensions** identified by Tableau. Adjust them if necessary to ensure they match your data structure and analysis needs.
+All variables are correctly classified.  
+Tableau correctly identified numerical, categorical, date, and geographic fields.  
+For example:
+- “Customer” is a String (customer ID)
+- “Effective To Date” is a Date field
+- “State” is recognized as a Geographic field
+- “Gender” is correctly treated as a categorical variable (F/M), not Boolean, since it represents text labels rather than logical values.
 
 5. **Gender Barplot Sheet**: Develop a sheet dedicated to displaying the barplot of customer counts by **Gender**.
 
