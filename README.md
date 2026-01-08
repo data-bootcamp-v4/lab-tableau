@@ -36,3 +36,5 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
+The link:
+https://public.tableau.com/app/profile/sana.aarsman/viz/tableau-lab_tbwx_17678899155950/GenderBarplot#1
