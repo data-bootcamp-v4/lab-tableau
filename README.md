@@ -36,3 +36,4 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
+My lab :https://public.tableau.com/app/profile/dimitrios.gkoutzouvelidis/viz/tableau-lab_17683539758390/CustomerDashboard
