@@ -14,5 +14,8 @@ This project analyzes customer segmentation based on:
 - No significant gender imbalance
 - Key states: California, Oregon, Arizona
 ---------------------------------------------
+## 🌐 Data Source
+[https://raw.githubusercontent.com/data-bootcamp-v4/data/main/we_fn_use_c_marketing_customer_value_analysis.csv]
+
 ## 🔗 Tableau Public Dashboard
 [(https://public.tableau.com/app/profile/paulina.mamiaga/viz/tableau-lab_tbwx_17755171772810/CustomerSegmentationOverview)]
