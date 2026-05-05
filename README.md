@@ -37,5 +37,5 @@ Upon completion of this lab, you will be able to:
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
 ### Tableau Dashboard
-Link [here](https://public.tableau.com/app/profile/gabriela.cascione/viz/lab_Tableau_17779041521220/GenderBarplot?publish=yes)
+Link [here](https://public.tableau.com/app/profile/gabriela.cascione/viz/lab_Tableau_17779041521220/MetricsDashboard?publish=yes)
 
