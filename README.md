@@ -36,3 +36,7 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
+echo "### My Live Tableau Dashboard Link:" >> README.md
+echo "👉 https://public.tableau.com/app/profile/shilpa.vk/viz/tableau-lab_twbx_17845623085520/MarketingCustomerAnalysisDashboard" >> README.md
+### My Live Tableau Dashboard Link:
+👉 https://public.tableau.com/app/profile/shilpa.vk/viz/tableau-lab_twbx_17845623085520/MarketingCustomerAnalysisDashboard
