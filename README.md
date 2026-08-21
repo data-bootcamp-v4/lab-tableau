@@ -36,3 +36,7 @@ Upon completion of this lab, you will be able to:
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
 
+## Tableau Public Dashboard
+
+[View my completed Tableau dashboard](https://public.tableau.com/app/profile/paul.omogiate.obamwonyi/viz/tableau-lab_17872775289020/CustomerAnalysisDashboard?publish=yes)
+
