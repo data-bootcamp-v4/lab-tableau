@@ -35,4 +35,10 @@ Upon completion of this lab, you will be able to:
 9. **Dashboard Assembly**: Compile all the created sheets into a single, interactive dashboard for an integrated view of the data insights.
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
+    
+### Tableau Public
+
+View the interactive Tableau visualizations and dashboard here:
+
+[**View Tableau Dashboard on Tableau Public**](https://public.tableau.com/app/profile/jovana.zivkovic2133/viz/tableau-lab_17924368936080/MaritalStatusandGenderCrossTable)
 
