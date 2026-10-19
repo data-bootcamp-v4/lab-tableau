@@ -34,5 +34,5 @@ Upon completion of this lab, you will be able to:
 
 9. **Dashboard Assembly**: Compile all the created sheets into a single, interactive dashboard for an integrated view of the data insights.
 
-10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
-
+10.**Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
+lab solved Url: https://public.tableau.com/views/tableau-lab_17924173293260/StateTreeplot?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
