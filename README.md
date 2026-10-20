@@ -1,3 +1,8 @@
+### Solution
+
+Tableau Public dashboard: https://public.tableau.com/app/profile/andrea.cerri/viz/lab-tableau_17925064258150/Dashboard1
+
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Tableau
